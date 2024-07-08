@@ -2,6 +2,11 @@
 Changelog for package interactive_markers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.6.1 (2024-07-08)
+------------------
+* Use non deprecated API (`#108 <https://github.com/ros-visualization/interactive_markers/issues/108>`_)
+* Contributors: Alejandro Hernández Cordero
+
 2.6.0 (2024-04-26)
 ------------------
 
